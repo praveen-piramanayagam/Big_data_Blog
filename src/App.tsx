@@ -10,8 +10,8 @@ import {
   Layers,
   BarChart3,
   Target,
-  CheckCircle2,
   Globe,
+  Lightbulb,
   Cpu,
   Search,
 } from "lucide-react";
