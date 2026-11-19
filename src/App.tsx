@@ -10,8 +10,6 @@ import {
   Layers,
   BarChart3,
   Target,
-  FileSearch,
-  Lightbulb,
   CheckCircle2,
   Globe,
   Cpu,
